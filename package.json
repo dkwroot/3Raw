@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "https://dkwroot.github.io/3Raw/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.22",
     "@fortawesome/free-brands-svg-icons": "5.10.2",
@@ -11,6 +12,7 @@
     "@fortawesome/react-fontawesome": "0.1.4",
     "aos": "2.3.4",
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.9.0",
@@ -25,7 +27,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",

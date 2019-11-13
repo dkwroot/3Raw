@@ -8,13 +8,13 @@ const Comments = [
     title: "GREAT EXPERIENCE",
     picture: CUSTOMER_1,
     comment:
-      "non luctus purus. Etiam eget massa ac lorem semper ultricies eget non sapien. Interdum et malesuada"
+      "convallis velit id ligula sollicitudin, Donec ut iaculis leo, non luctus purus. Etiam eget massa ac lorem semper ultricies malesuada"
   },
   {
     title: "GAME CHANGER",
     picture: CUSTOMER_2,
     comment:
-      "Donec ut iaculis leo, non luctus purus. Etiam eget massa ac lorem semper ultricies eget non sapien. Interdum et malesuada"
+      "convallis velit id ligula sollicitudin, Donec ut iaculis leo, non luctus purus. Etiam eget massa ac lorem semper ultricies malesuada"
   },
   {
     title: "AWESOME SERVICE",
@@ -26,7 +26,7 @@ const Comments = [
     title: "LOVED IT",
     picture: CUSTOMER_4,
     comment:
-      " convallis velit. Etiam eget massa ac lorem semper ultricies eget non sapien. Interdum et malesuada"
+      "convallis velit id ligula sollicitudin, Donec ut iaculis leo, non luctus purus. Etiam eget massa ac lorem semper ultricies malesuada"
   }
 ];
 
