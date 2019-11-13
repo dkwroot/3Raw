@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/3Raw/static/css/main.90566767.chunk.css",
+    "main.js": "/3Raw/static/js/main.9ff8a5ba.chunk.js",
+    "main.js.map": "/3Raw/static/js/main.9ff8a5ba.chunk.js.map",
+    "runtime~main.js": "/3Raw/static/js/runtime~main.ebb3bfe1.js",
+    "runtime~main.js.map": "/3Raw/static/js/runtime~main.ebb3bfe1.js.map",
+    "static/css/2.5c6bdb9e.chunk.css": "/3Raw/static/css/2.5c6bdb9e.chunk.css",
+    "static/js/2.49014b18.chunk.js": "/3Raw/static/js/2.49014b18.chunk.js",
+    "static/js/2.49014b18.chunk.js.map": "/3Raw/static/js/2.49014b18.chunk.js.map",
+    "index.html": "/3Raw/index.html",
+    "precache-manifest.46c6db915bd683ba02213aa379ff51d5.js": "/3Raw/precache-manifest.46c6db915bd683ba02213aa379ff51d5.js",
+    "service-worker.js": "/3Raw/service-worker.js",
+    "static/css/2.5c6bdb9e.chunk.css.map": "/3Raw/static/css/2.5c6bdb9e.chunk.css.map",
+    "static/css/main.90566767.chunk.css.map": "/3Raw/static/css/main.90566767.chunk.css.map",
+    "static/media/dancer_f_1.png": "/3Raw/static/media/dancer_f_1.a93d1ec8.png",
+    "static/media/dancer_f_2.png": "/3Raw/static/media/dancer_f_2.1a316102.png",
+    "static/media/ipadframe1.png": "/3Raw/static/media/ipadframe1.50e24461.png",
+    "static/media/logo.45ba0bb3.svg": "/3Raw/static/media/logo.45ba0bb3.svg"
+  }
+}
