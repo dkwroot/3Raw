@@ -167,7 +167,7 @@ const Home = () => {
                   <div className="col-6 d-flex center w-100">
                     <Button className="m-2 btn btn-info w-100">
                       <a
-                        href="https://6ntnx.csb.app"
+                        href="https://csb-6ntnx.netlify.com/"
                         className="text-decoration-none text-white"
                       >
                         Try
